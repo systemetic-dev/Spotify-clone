@@ -1,13 +1,13 @@
-.left{
-    width: 25vw;
-    height: 100vh;
-    border: 3px solid black;
-    border-radius: 10px;
+.body{
+    margin: 0;
+    padding: 0;
 }
 
-.right{
-    width: 75vw;
-    height: 100vh;
-    border: 3px solid black;
-    border-radius: 10px;
+.home{
+    background-color: black;
+    color: aqua;
+    display: flex;
+    flex-direction: column;
+    height : 100px;
+    width: 100px;
 }
